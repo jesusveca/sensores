@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOVILES App</string>
+    <string name="app_name_acelererometro">Acelerometro App</string>
+    <string name="app_name_proximidad">Proximidad App</string>
+    <string name="app_name_luz">Luz Source App</string>
+    <string name="saludo">Hola, Bienvenido</string>
+    <string name="boton">Presiona </string>
+    <string name="boton2">Presiona 2 </string>
+</resources>
